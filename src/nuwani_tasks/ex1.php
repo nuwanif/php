@@ -1,4 +1,6 @@
-<?php include 'header.php';?>
+<?php 
+$title="Exercise 1";
+include 'header.php';?>
 
     <h3>3.1 Write PHP code to output the following message:
     Hello world! My name is "David"
