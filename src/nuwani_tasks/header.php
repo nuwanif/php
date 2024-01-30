@@ -36,28 +36,28 @@
                     <a class="nav-link" href="ex2.php">Exercise 2</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#3">Where to go </a>
+                    <a class="nav-link" href="#3">Exercise 3</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#4"> Events </a>
+                    <a class="nav-link" href="#4">Exercise 4</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#5">Adventure </a>
+                    <a class="nav-link" href="#5">Exercise 5</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#6">Accormadation </a>
+                    <a class="nav-link" href="#6">Exercise 6</a>
                   </li>
                   
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#7" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Foods
+                      Other Exercises
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="#7">Main Dishes
+                      <li><a class="dropdown-item" href="#7">1
                       </a></li>
-                      <li><a class="dropdown-item" href="#8">Spices</a></li>
+                      <li><a class="dropdown-item" href="#8">2</a></li>
                       <li><hr class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="#9">Sea Food
+                      <li><a class="dropdown-item" href="#9">3
                       </a></li>
                     </ul>
                   </li>
