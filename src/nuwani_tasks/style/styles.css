@@ -1,6 +1,6 @@
 body ,.navbar-light{
 
-    background: rgb(28, 27, 27);
+    background: rgb(102, 103, 101);
 }
 
 .nav-link  {
@@ -51,7 +51,7 @@ font-family: 'Allerta', sans-serif;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: normal;
+
 }
 
 h2{
@@ -86,14 +86,14 @@ h3{
     
 
 
-
-    color:  #CCE91E;
+  margin-top: 30px;
+    color:  #50e82b;
    
    /* paragraph font */
    font-family: 'Allerta', sans-serif;
-   font-size: 24px;
+   font-size: 15px;
    font-style: normal;
-   font-weight: 400;
+   font-weight: 200;
    line-height: normal;
    }
    .btn{
@@ -244,4 +244,15 @@ h3{
 
   .card:hover .overlay {
     opacity: 1;
+  }
+
+  table, th, td {
+    border: 1px solid;
+    color: #f1f1f1;
+    font-style: normal;
+  }
+
+  title {
+
+    color: #f1f1f1;
   }
