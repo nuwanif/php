@@ -10,6 +10,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Allan&family=Allerta&family=Allura&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 <link rel="stylesheet" href="style/styles.css">
 
 </head>
@@ -36,10 +37,10 @@
                     <a class="nav-link" href="ex2.php">Exercise 2</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#3">Exercise 3</a>
+                    <a class="nav-link" href="ex3.php">Exercise 3</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#4">Exercise 4</a>
+                    <a class="nav-link" href="ex4.php">Exercise 4</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#5">Exercise 5</a>

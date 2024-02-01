@@ -1,6 +1,6 @@
 body ,.navbar-light{
 
-    background: rgb(102, 103, 101);
+    background: rgb(138, 140, 135);
 }
 
 .nav-link  {
@@ -20,13 +20,13 @@ color:#1C1B1B !important;
 
 h1{
 color: #CCE91E;
-text-align: center;
+text-align: left;
 
 /* header home */
 font-family: 'Allura', cursive;
 font-size: 96px;
 font-style: normal;
-font-weight: 400;
+font-weight: 200;
 line-height: normal;
 
 }
