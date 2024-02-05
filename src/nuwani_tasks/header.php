@@ -47,8 +47,7 @@
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#6">Exercise 6</a>
-                  </li>
-                  
+                  </li>                 
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#7" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Other Exercises
