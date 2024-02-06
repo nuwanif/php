@@ -66,5 +66,10 @@
               </div>
             </div>
           </nav>
+          <div class="row"></div>
+          <h3> List of Tasks</h3>
+          <ul>
+            <li> <a href="../crud/index.php" style="color" >Clck Me</a></li>
+          </ul>
           </header>
           <div id="page1" style="padding-top: 60px;" >

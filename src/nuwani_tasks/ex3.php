@@ -17,7 +17,7 @@ include 'header.php';?>
     $g1=5;
     $g2=4;
     $g3=5;
-    ?>
+    ?> 
 <div class="row"></div>
 <table class="table">
   <thead>
