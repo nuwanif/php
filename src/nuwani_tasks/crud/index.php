@@ -37,6 +37,7 @@ include '../header.php';
         </div>
     </div>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
+    <link rel="stylesheet" href="read.php">
 </form>
 
 <?php

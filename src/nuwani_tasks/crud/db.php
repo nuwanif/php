@@ -1,9 +1,9 @@
 <?php
 //shell.hamk.fi >>>localhost
-$servername = "php-db-1"; // Replace with your MySQL server hostname get docker db-1 click
-$username = "app1";     // Replace with your MySQL username .which created from local 85.omit giving root
-$password = "Welcome@12345";     // Replace with your MySQL password
-$dbname = "app1";       // Replace with the name of your MySQL database
+$servername = "localhost"; // Replace with your MySQL server hostname get docker db-1 click
+$username = "nuwani23000";     // Replace with your MySQL username .which created from local 85.omit giving root
+$password = "vHf0JcuM";     // Replace with your MySQL password
+$dbname = "wp_nuwani23000";       // Replace with the name of your MySQL database
 
 
 // Create a database connection

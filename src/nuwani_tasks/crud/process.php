@@ -12,7 +12,7 @@ if (isset($_POST['submit'])) {
 include 'db.php';
 
 //write a sql statement to insert data
-$sql = "insert into studentinfo (first_name,last_name,city,groupId)  
+$sql = "insert into studentsinfo (first_name,last_name,city,groupId)  
        values ('$fname','$lname','$city','$groupid')";  //same as local host 85 the one created table
 
 
