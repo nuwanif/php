@@ -49,7 +49,7 @@
                     <a class="nav-link" href="#6">Exercise 6</a>
                   </li>         
                   <li class="nav-item">
-                    <a class="nav-link" href="../crud/index.php">Exercise 7</a>
+                    <a class="nav-link" href="index.php">Exercise 7</a>
                   </li>           
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#7" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -70,9 +70,4 @@
             </div>
           </nav>
           <div class="row"></div>
-          <h3> List of Tasks</h3>
-          <ul>
-            <li> <a href="../crud/index.php" style="color" >Clck Me</a></li>
-          </ul>
-          </header>
           <div id="page1" style="padding-top: 60px;" >
