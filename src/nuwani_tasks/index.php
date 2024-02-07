@@ -1,6 +1,6 @@
 <?php
 $title="create data";
-include '../header.php';
+include 'header.php';
 
 ?>
 
@@ -37,15 +37,17 @@ include '../header.php';
         </div>
     </div>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
-    <link rel="stylesheet" href="read.php"><p>read</p>
     
-    <?php
-    echo "<a href="read.php">Home</a>"
-    ?>
+    <h3> List of Tasks</h3>
+          <ul>
+            <li> <a href="read.php" style="color" >read info</a></li>
+            <li> <a href="updatesingle.php" style="color" >update/delete info</a></li>
+          </ul>
+          </header>
     
 </form>
 
 <?php
 
-include '../footer.php';
+include 'footer.php';
 ?>
